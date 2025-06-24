@@ -11,7 +11,7 @@ title = "ZHANG's Gallery"
 
 [params]
   defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
+  description = "For test"
   title = "coffeefor@163.com"
   [params.author]
     email = "coffeefor@163.com"
