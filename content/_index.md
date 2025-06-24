@@ -1,7 +1,7 @@
 ---
-description: An example site for hugo-theme-gallery. Images from Unsplash.
+description: 人的成见是一座大大山
 #lastmod: 2023-07-05
-title: Hugo Gallery
+title: IZY
 resources:
   - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
     params:
