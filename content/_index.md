@@ -1,5 +1,5 @@
 ---
-description: 人的成见是一座大大山
+description: 人的成见是一座大山
 #lastmod: 2023-07-05
 title: IZY
 resources:
