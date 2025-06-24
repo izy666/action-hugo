@@ -7,21 +7,21 @@ enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/Berlin"
 timeout = "120s"
-title = "Gallery"
+title = "ZHANG's Gallery"
 
 [params]
   defaultTheme = "dark"
   description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  title = "coffeefor@163.com"
   [params.author]
-    email = "user@example.com"
+    email = "coffeefor@163.com"
     name = "Your Name"
   [params.socialIcons]
     facebook = "https://www.facebook.com/"
     instagram = "https://www.instagram.com/"
     github = "https://github.com/nicokaiser/hugo-theme-gallery/"
     youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
+    email = "mailto:coffeefor@163.com"
     #website = "https://example.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
