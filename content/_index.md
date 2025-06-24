@@ -1,5 +1,5 @@
 ---
-description: 人的成见是一座大山
+description: 每个人都是惊世骇俗的
 #lastmod: 2023-07-05
 title: IZY
 resources:
