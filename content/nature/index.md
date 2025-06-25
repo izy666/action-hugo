@@ -1,7 +1,7 @@
 ---
 description:生活在生活之外
 menus: "main"
-title: 黑白
+title: 没有颜色的世界
 weight: 3
 params:
   featured_image: vitalik-vynarchyk-TUzsO59UFpo-unsplash.jpg
