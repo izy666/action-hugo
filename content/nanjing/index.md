@@ -1,7 +1,9 @@
 
 ---
 date: 2025-06-25
-menus: "main"
+menu:
+  main:
+    weight: 3
 title: NanJing
 params:
   featured: true
