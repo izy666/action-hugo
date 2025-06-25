@@ -1,9 +1,12 @@
 ---
 title: SuZhou
-   menu:
-  main:
-    weight: 4
+  
 resources:
   - src: suzhou.jpg
  
 ---
+
+
+ menu:
+  main:
+    weight: 4
