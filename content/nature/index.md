@@ -1,5 +1,5 @@
 ---
-description:生活在生活之外
+description: 生活在生活之外
 menus: "main"
 title: 没有颜色的世界
 weight: 3
